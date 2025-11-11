@@ -1,13 +1,227 @@
 {
-  "Vermisste": {
-    "categore": "pas pas "
+  "unite1": {
+    "lektion": "unite1",
+    "titre": "Stadt",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
   },
-  "Vermisstenanzeige": {
-    "categore": "pas pas "
+  "unite2": {
+    "lektion": "unite2",
+    "titre": "Wohnen",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
   },
-  "Vermisstenmeldung": {
-    "categore": "pas pas "
+  "unite3": {
+    "lektion": "unite3",
+    "titre": "Arbeit",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
   },
-  "Vermisstensuchdienst": {
-    "categore": "pas pas "
-  }}
+  "unite4": {
+    "lektion": "unite4",
+    "titre": "Reisen",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  },
+  "unite5": {
+    "lektion": "unite5",
+    "titre": "Gesundheit",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  },
+  "unite6": {
+    "lektion": "unite6",
+    "titre": "Familie",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  },
+  "unite7": {
+    "lektion": "unite7",
+    "titre": "Essen",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  },
+  "unite8": {
+    "lektion": "unite8",
+    "titre": "Einkaufen",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  },
+  "unite9": {
+    "lektion": "unite9",
+    "titre": "Freizeit",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  },
+  "unite10": {
+    "lektion": "unite10",
+    "titre": "Bildung",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  },
+  "unite11": {
+    "lektion": "unite11",
+    "titre": "Kultur",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  },
+  "unite12": {
+    "lektion": "unite12",
+    "titre": "Technologie",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  },
+  "unite13": {
+    "lektion": "unite13",
+    "titre": "Umwelt",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  },
+  "unite14": {
+    "lektion": "unite14",
+    "titre": "Sport",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  },
+  "unite15": {
+    "lektion": "unite15",
+    "titre": "Beziehungen",
+    "inhalt": {
+      "wortschatz": "",
+      "sätze": "",
+      "Grammatik1": "",
+      "Grammatik2": "",
+      "Gespräch": "",
+      "texte": "",
+      "hören": "",
+      "dictakt": "",
+      "practikum": ""
+    }
+  }
+}
