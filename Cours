@@ -1,0 +1,41 @@
+{
+      "Familie": {
+        "inhalt": {
+          "mensch": {"top": 0.0, "left": 140.0},
+          "deutsch": {"top": 120.0, "left": 90.0},
+          "buch": {"top": 240.0, "left": 9.0},
+          "Geld": {"top": 360.0, "left": 2.0},
+          "kartofel": {"top": 480.0, "left": 8.0},
+          "handy": {"top": 600.0, "left": 0.0},
+          "zahl": {"top": 720.0, "left": 0.0},
+          "stadt": {"top": 840.0, "left": 7.0},
+          "reisen": {"top": 960.0, "left": 3.0},
+        }
+      },
+      "Menschen": {
+        "inhalt": {
+          "mensch": {"top": 0.0, "left": 140.0},
+          "deutsch": {"top": 120.0, "left": 90.0},
+          "buch": {"top": 240.0, "left": 9.0},
+          "Geld": {"top": 360.0, "left": 2.0},
+          "kartofel": {"top": 480.0, "left": 8.0},
+          "handy": {"top": 600.0, "left": 0.0},
+          "zahl": {"top": 720.0, "left": 0.0},
+          "stadt": {"top": 840.0, "left": 7.0},
+          "reisen": {"top": 960.0, "left": 3.0},
+        }
+      },
+      "Stadt": {
+        "inhalt": {
+          "mensch": {"top": 0.0, "left": 140.0},
+          "deutsch": {"top": 120.0, "left": 90.0},
+          "buch": {"top": 240.0, "left": 9.0},
+          "Geld": {"top": 360.0, "left": 2.0},
+          "kartofel": {"top": 480.0, "left": 8.0},
+          "handy": {"top": 600.0, "left": 0.0},
+          "zahl": {"top": 720.0, "left": 0.0},
+          "stadt": {"top": 840.0, "left": 7.0},
+          "reisen": {"top": 960.0, "left": 3.0},
+        }
+      },
+    }
