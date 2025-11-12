@@ -22,7 +22,7 @@
           "handy": {"top": 600.0, "left": 0.0},
           "zahl": {"top": 720.0, "left": 0.0},
           "stadt": {"top": 840.0, "left": 7.0},
-          "reisen": {"top": 960.0, "left": 3.0},
+          "reisen": {"top": 960.0, "left": 3.0}
         }
       },
       "Stadt": {
@@ -35,7 +35,7 @@
           "handy": {"top": 600.0, "left": 0.0},
           "zahl": {"top": 720.0, "left": 0.0},
           "stadt": {"top": 840.0, "left": 7.0},
-          "reisen": {"top": 960.0, "left": 3.0},
+          "reisen": {"top": 960.0, "left": 3.0}
         }
       },
     }
