@@ -20,6 +20,19 @@
       "nom": "Emma Schneider",
       "niveau": "Teil 3",
       "description": "Invite à un échange linguistique."
+    },    {
+      "id": "4",
+      "photo": "https://i.pravatar.cc/150?img=7",
+      "nom": "Jonas Becker",
+      "niveau": "Teil 2",
+      "description": "A terminé le niveau précédent."
+    },{
+      "id": "5",
+      "photo": "https://i.pravatar.cc/150?img=5",
+      "nom": "Sarah Müller",
+      "niveau": "Teil 1",
+      "description": "Souhaite rejoindre votre groupe d'étude."
     }
+
   ]
 }
