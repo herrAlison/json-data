@@ -1,7 +1,7 @@
 {
 
 "user_1":{
-"image":"",
+"image":"https://i.pravatar.cc",
 "name":"Karim",
 "drapeau":"de",
 "date":"25-09-2025",
@@ -9,7 +9,7 @@
 "teil2":"die kinder lernen englisch"
 },
 "user_2":{
-"image":"",
+"image":"https://i.pravatar.cc",
 "name":"Ines",
 "drapeau":"ch",
 "date":"26-09-2025",
@@ -17,7 +17,7 @@
 "teil2":"studium"
 },
 "user_3":{
-"image":"",
+"image":"https://i.pravatar.cc",
 "name":"bissa",
 "drapeau":"dz",
 "date":"27-09-2026",
