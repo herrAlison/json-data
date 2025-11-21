@@ -2,7 +2,7 @@
       "Familie": {
         "inhalt": {
           "mensch": {"top": 0.0, "left": 140.0},
-          "deutsch": {"top": 120.0, "left": 90.0},
+          "deutsch": {"top": 120.0, "left": 80.0},
           "buch": {"top": 240.0, "left": 9.0},
           "Geld": {"top": 360.0, "left": 2.0},
           "kartofel": {"top": 480.0, "left": 8.0},
