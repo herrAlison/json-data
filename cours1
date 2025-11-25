@@ -6,11 +6,11 @@
           "Grammatik 1": {"top": 240.0, "left": 60.0},
           "Grammatik 2": {"top": 360.0, "left": 80.0},
           "Tournoi": {"top": 480.0, "left": 140.0},
-          "Sätze": {"top": 600.0, "left": 160.0},
-          "Gespräch": {"top": 720.0, "left": 0.0},
-          "Text": {"top": 840.0, "left": 7.0},
-          "Hören": {"top": 960.0, "left": 3.0},
-          "Praktikum": {"top": 1080.0, "left": 3.0}
+          "Sätze": {"top": 600.0, "left": 170.0},
+          "Gespräch": {"top": 720.0, "left": 150.0},
+          "Text": {"top": 840.0, "left": 130.0},
+          "Hören": {"top": 960.0, "left": 100.0},
+          "Praktikum": {"top": 1080.0, "left": 70.0}
         },
         "lien":"https/"
       },
