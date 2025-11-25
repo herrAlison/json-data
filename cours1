@@ -10,8 +10,8 @@
           "Gespräch": {"top": 720.0, "left": 65.0},
           "Text": {"top": 840.0, "left": 55.0},
           "Hören": {"top": 960.0, "left": 40.0},
-          "Praktikum": {"top": 1080.0, "left": 40.0}
-"Praktikum": {"top": 1080.0, "left": 40.0}
+          "Praktikum": {"top": 1080.0, "left": 40.0},
+          "Familie": {"top": 240.0, "left": 65.0}
         },
         "lien":"https/"
       },
