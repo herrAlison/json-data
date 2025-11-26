@@ -33,16 +33,16 @@
       },
       "Stadt": {
         "inhalt": {
-          "Aussprache": {"top": 0.0, "left": 40.0},
-          "Wortschatz": {"top": 120.0, "left": 22.0},
-          "Grammatik 1": {"top": 240.0, "left": 15.0},
-          "Grammatik 2": {"top": 360.0, "left": 22.0},
-          "Tournoi": {"top": 480.0, "left": 40.0},
-          "Sätze": {"top": 600.0, "left": 55.0},
-          "Gespräch": {"top": 720.0, "left": 65.0},
-          "Text": {"top": 840.0, "left": 55.0},
-          "Hören": {"top": 960.0, "left": 40.0},
-          "Praktikum": {"top": 1080.0, "left": 40.0},
+          "Wortschatz": {"top": 0.0, "left": 40.0},
+          "Grammatik 1": {"top": 120.0, "left": 22.0},
+          "Grammatik 2": {"top": 240.0, "left": 15.0},
+          "Tournoi": {"top": 360.0, "left": 22.0},
+          "Sätze": {"top": 480.0, "left": 40.0},
+          "Gespräch": {"top": 600.0, "left": 55.0},
+          "Text": {"top": 720.0, "left": 65.0},
+          "Hören": {"top": 840.0, "left": 55.0},
+          "Praktikum": {"top": 960.0, "left": 40.0},
+          
           "Stadt": {"top": 240.0, "left": 65.0}
         },       
         "lien":"https/"
